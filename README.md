@@ -73,6 +73,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 
-- GitHub: [Saurabh13042004](https://github.com/Saurabh13042004)
-- LinkedIn: [saurabh-shukla](https://www.linkedin.com/in/saurabh-shukla-0b45b3224/)
-- Email: [saurabh1258.be21@chitkarauniversity.edu.in](mailto:saurabh1258.be21@chitkarauniversity.edu.in)
